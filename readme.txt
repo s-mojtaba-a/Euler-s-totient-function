@@ -1,0 +1,1 @@
+Functions to compute the value of Euler totient function for a number ' n ' and another function to compute the value of Euler totient function for all numbers from one to ' n ' . 
